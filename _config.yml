@@ -1,0 +1,6 @@
+title: "Logistify QuickBooks Desktop: ChatGPT plugin for QuickBooks Desktop"
+description: "Install and use the Logistify QuickBooks Desktop plugin in ChatGPT, Claude, Copilot, Gemini and Perplexity. Approved for ChatGPT's plugin directory on November 10, 2026."
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-relative-links
